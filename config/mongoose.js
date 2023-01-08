@@ -3,7 +3,7 @@
 const mongoose = require('mongoose');
 const env=require('./environment');
 
-mongoose.connect(`mongodb+srv://chiragbansal123:mdJbvHm43dPOTjjY@cluster0.lne9m.mongodb.net/test?retryWrites=true&w=majority`);
+mongoose.connect(`mongodb+srv://chiragbansal123:O3b4811jzoCDcWyW@cluster0.lne9m.mongodb.net/test?retryWrites=true&w=majority`);
 
 const db = mongoose.connection;
 
